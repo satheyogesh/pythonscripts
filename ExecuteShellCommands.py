@@ -1,5 +1,5 @@
 import os
-path = "C:\Yogesh\Repository\cdp\src\main\java\com\complianceease\cdp"
+path = "C:\Yogesh\Repository\cdp\src\main\java\com\tmp\cdp"
 myCmd = "dir "+ path
 os.system(myCmd)
 
